@@ -1,0 +1,23 @@
+#chessboard {
+    width: 38.2%;
+    height: 500px;
+    border: 20px solid rgb(78, 27, 27);
+    border-radius: 10px;
+    margin: 20px auto;
+}
+.white {
+    width: 100px;
+    height: 100px;
+    background-color: #fff;
+    font-size: 70px;
+    text-align: center;
+    display: table-cell;
+}
+.black {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(87, 85, 85);
+    font-size: 70px;
+    text-align: center;
+    display: table-cell;
+}
